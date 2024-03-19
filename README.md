@@ -1,2 +1,6 @@
-# Su_sCRN_bi-molecular-reactions
-Simulation of a universal Computing model on sCRN using only bi-molecular reactions
+Prerequisite
+============================================================
+The first step is to install the simulator for surface CRNs, 
+which was developed by Samuel Clamons et al., 
+and it is available at ["Surface_CRNs"](https://github.com/sclamons/surface_crns)
+
