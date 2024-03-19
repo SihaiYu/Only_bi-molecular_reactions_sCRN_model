@@ -15,7 +15,7 @@ After installing the simulator, you can simply run the ["run_this.py"](https://g
 Supplement
 ============================================================
 
-The computational model based on surface CRNs proposed in this paper only utilizes bimolecular reactions and does not employ reaction rules similar to "A+A -> B+B."
+The computational model based on surface CRNs proposed in this paper only utilizes bimolecular reactions and does not employ reaction rules similar to "A+A \rightarrow B+B."
 
 
 
